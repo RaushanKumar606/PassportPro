@@ -26,3 +26,6 @@ The EXE will be generated in `dist/PassportPhotoMaker.exe`.
 - First AI background-removal run may download the u2net model.
 - The current version uses centered cropping. Add face-aware cropping for production use.
 - Confirm the required photo dimensions and background rules for each application.
+
+- <img width="1357" height="926" alt="image" src="https://github.com/user-attachments/assets/0f139798-9496-4ac2-91b3-2c7fc037c397" />
+
